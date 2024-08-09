@@ -19,13 +19,13 @@
 
 
   <p align="center">
-    Demo <a href="https://avifilms.tech/">https://avifilms.tech/</a> <br>
+    Demo <a href="https://avifilms.tech">https://avifilms.tech</a> <br>
     This is a PHP application used for browsing, searching and watching anime . The application is built on top of GogoAnimeAPI (<a href="https://github.com/ABCGop/anikatsu-api">API REPO</a>)
   </p>
 </p>
 
 <!-- PREVIEW IMAGE -->
-<img src="https://avifilms.tech//banner.png">
+<img src="https://avifilms.tech/banner.png">
 
 <hr/>
 
@@ -49,7 +49,7 @@
 <br>
 --> **To Update Website Info (Website name, logo, favicon, socials url) Edit `_config.php` file**
 <br>
---> Recommended: First Clone the <a href="">API REPO</a>. Run It and Update the `$apiURL` variable in `_config.php` with new URL. 
+--> Recommended: First Clone the <a href="">API REPO</a>. Run It and Update the `$api` variable in `_config.php` with new URL. 
 
 
 ## Online Deployment

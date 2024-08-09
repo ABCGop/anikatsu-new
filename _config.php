@@ -22,7 +22,7 @@ $disqus = "https://indianime.disqus.com"; // Disqus
 
 
 // API URL
-$api = "https://please-zeta.vercel.app";
+$api = ""; //https://github.com/ABCGop/anikatsu-api make your own api
 
 
 $banner = $websiteUrl . "/files/images/banner.png";  //Banner

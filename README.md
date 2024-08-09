@@ -25,7 +25,7 @@
 </p>
 
 <!-- PREVIEW IMAGE -->
-<img src="https://avifilms.tech/banner.png">
+<img src="https://avifilms.tech/files/images/banner.png">
 
 <hr/>
 
